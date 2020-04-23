@@ -13,3 +13,7 @@ Qq coisa
 Agora só mais umas coisas
 
 Por fim the deployment
+
+### Copyright
+
+Pedro
