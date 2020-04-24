@@ -17,3 +17,7 @@ Por fim the deployment
 ### Copyright
 
 Pedro
+
+## How to Contribute
+
+Pleasefor this repository
